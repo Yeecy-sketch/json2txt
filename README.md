@@ -7,6 +7,6 @@ Uses the Label Studio JSON-MIN export file and adds a txt file for each of the p
 
 # Folder Structure
 base/
-├─json2text.py 
-├─picture.png 
-├─SingularJsonFile.json 
+  json2text.py 
+  picture.png 
+  SingularJsonFile.json 
